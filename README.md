@@ -72,6 +72,7 @@ Selected variables:
 - **Best (cross-validation) Accuracy Score**: 90.29%
 - **Final Model Accuracy on Testing Set**: 90.48%
 - **Comments**: The optimal K value of 11 improves the model's performance, reducing overfitting and achieving a balanced accuracy.
+![Accuracy by Tuned Ks](./output_tuned_K.png)
 
 ## Contributing
 
